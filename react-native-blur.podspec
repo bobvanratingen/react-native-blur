@@ -13,7 +13,7 @@ Pod::Spec.new do |s|
   s.authors      = package["author"]
 
   s.platforms    = { :ios => "10.0" }
-  s.source       = { :git => "https://github.com/react-native-community/react-native-blur.git" }
+  s.source       = { :git => "https://github.com/bobvanratingen/react-native-blur.git" }
 
   s.source_files = "ios/**/*.{h,m,mm}"
 
